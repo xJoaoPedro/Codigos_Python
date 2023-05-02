@@ -1,0 +1,5 @@
+a = float(input("Type the value of A: \n"))
+b = float(input("Type the value of B: \n"))
+c = float(input("Type the value of C: \n"))
+mean = float((a + b + c) / 3)
+print(f"The mean of {a}, {b} and {c} is:{mean}")
