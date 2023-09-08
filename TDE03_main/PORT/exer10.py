@@ -1,5 +1,0 @@
-a = float(input("Dê o valor de A: \n"))
-b = float(input("Dê o valor de B: \n"))
-c = float(input("Dê o valor de C: \n"))
-media = float((a + b + c) / 3)
-print(f"A média de {a}, {b} e {c} é:{media}")
